@@ -1,3 +1,8 @@
+---
+name: saas-metrics-analyzer
+description: Turn raw SaaS metrics (MRR, churn, growth, pricing tiers) into a complete financial analysis with scenario modeling, stage-appropriate industry benchmarks, and prioritized growth recommendations. Use when the user provides SaaS metrics or asks for a health check, deep dive, board deck prep, fundraising prep, or financial model.
+---
+
 # SaaS Metrics Analyzer
 
 A skill for turning raw SaaS metrics into a complete financial analysis with scenario modeling, industry benchmarks, and actionable growth recommendations.
